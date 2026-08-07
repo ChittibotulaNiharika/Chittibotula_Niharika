@@ -14,7 +14,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on the Males 
 
 ## Dataset
 
-The dataset used in this project is the Males dataset.
+The dataset used in this project is the Sales dataset.
 
 Dataset Source: GitHub
 
